@@ -495,3 +495,4 @@ Commits for the following dates with intensity Light: ['2023-04-09', '2023-04-13
 Commits for the following dates with intensity High: ['2023-04-10', '2023-04-11', '2023-04-12', '2023-04-16', '2023-04-18', '2023-04-19', '2023-04-20', '2023-04-21']
 Commits for the following dates with intensity Light: ['2023-04-23', '2023-04-24', '2023-04-26', '2023-04-27', '2023-05-01', '2023-05-02', '2023-05-04', '2023-05-06']
 Commits for the following dates with intensity High: ['2023-04-25', '2023-04-28', '2023-04-29', '2023-04-30', '2023-05-03', '2023-05-05']
+Commits for the following dates with intensity Light: ['2023-05-08', '2023-05-09', '2023-05-12', '2023-05-14', '2023-05-16', '2023-05-19']
