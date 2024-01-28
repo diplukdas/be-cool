@@ -435,3 +435,4 @@ Commits for the following dates with intensity High: ['2024-12-23', '2024-12-24'
 Commits for the following dates with intensity Light: ['2024-08-30']
 Commits for the following dates with intensity High: ['2024-01-04', '2024-01-06', '2024-01-08', '2024-01-09', '2024-01-11', '2024-01-12']
 Commits for the following dates with intensity Light: ['2024-01-02', '2024-01-07', '2024-01-10', '2024-01-13', '2024-01-19', '2024-01-23']
+Commits for the following dates with intensity High: ['2024-01-15', '2024-01-21', '2024-01-22', '2024-01-25', '2024-01-26', '2024-01-27', '2024-01-28']
