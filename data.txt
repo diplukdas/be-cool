@@ -42,3 +42,4 @@
 2024-06-01 <- DIPLU pixel!
 2024-06-02 <- DIPLU pixel!
 2024-06-03 <- DIPLU pixel!
+2024-06-04 <- DIPLU pixel!
